@@ -45,17 +45,17 @@ export const data = {
     {
       label: "Sky Go",
       data: skyGoTotalViews,
-      backgroundColor: "rgba(255, 99, 132, 0.5)",
+      backgroundColor: "rgba(0, 114, 201, 1)",
     },
     {
       label: "Now TV",
       data: nowTotalViews,
-      backgroundColor: "rgba(53, 162, 235, 0.5)",
+      backgroundColor: "rgba(41, 153, 52, 1)",
     },
     {
       label: "Peacock",
       data: peacockTotalViews,
-      backgroundColor: "rgba(43, 122, 5, 0.5)",
+      backgroundColor: "rgba(115, 173, 216, 1)",
     },
   ],
 };
