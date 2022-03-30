@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+### What's this app?
+Glad you asked. This app displays data from the Content API in a useful way - as charts and tables.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Get Started
+
+Run these commands
+
+- `npm i`
+- `npm start`
+
+---
 
 ## Available Scripts
 
